@@ -1,0 +1,25 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Meta-edu",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaponov1819/Project1.git"
+  },
+  "author": "Dmytro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaponov1819/Project1/issues"
+  },
+  "homepage": "https://github.com/gaponov1819/Project1#readme",
+  "dependencies": {
+    "metarhia-common": "0.0.38"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
